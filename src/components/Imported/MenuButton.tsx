@@ -1,7 +1,11 @@
 import React from 'react'
-import { Sheet, SheetContent, SheetTrigger } from '@/components/ui/Ssheet'
+import {
+  Sheet,
+  SheetContent,
+  SheetTrigger,
+} from '@/components/Imported/ui/Ssheet'
 import { Menu } from 'lucide-react'
-import { routes } from './SHeader'
+import { routes } from './Sheader'
 import Link from 'next/link'
 type Props = {}
 

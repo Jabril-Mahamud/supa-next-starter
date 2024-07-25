@@ -5,8 +5,12 @@ import {
   DropdownMenuLabel,
   DropdownMenuSeparator,
   DropdownMenuTrigger,
-} from '@/components/ui/Sdropdown-menu'
-import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/Savatar'
+} from '@/components/Imported/ui/Sdropdown-menu'
+import {
+  Avatar,
+  AvatarFallback,
+  AvatarImage,
+} from '@/components/Imported/ui/Savatar'
 
 const ProfileButton = () => {
   return (
